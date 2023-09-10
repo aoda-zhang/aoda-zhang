@@ -1,80 +1,16 @@
-# Daily
+# Daily life English
 
-> 每一天的幸酸苦辣都很重要啊，不是吗？所以把它记录下来，耄耋之时总是一份美好的回忆
+## 2023-09-10
 
-## 2022-12-11
+this is first time, i realize English is such important for me.
 
-> 听取远程工作相关的经验，下载所需书籍
+i joined the current company manulife last year,that is a big financial company, my main work is about funds, includes fund subscription, fund redemption, basically, every aspect of fund tranding.
 
-### 远程工作主要技术栈
+in my last job, i am only a frontend engineer, after joined manulife, i became a full stack software engineer, u know, that is more valuable experience, because, i can  control full lifestyle for software,so,yup, i am happy for here.
 
-1. react+ts
-2. web3
-3. nodejs
+but,i know i cannot stop my study， i woule leave the company one day in the future, at that time, i need master more work skills than what i do now,
 
-### 精进技术阅读书籍
+after i thought about deeply, it is english, yes,the most language spoken in this word.
 
-#### 计算机基础
+i think that is very important for every sofetware engineer, the code is wrote by English in this world,from ths side, i should study it , but, u know, most time we used translation tools to get the world what i want, after joined manulife, sometimes, I need to communicate with my foreign colleagues in **English**，that time, i know i should have a better English level, i can get foreign job when i have better English skills,so ,yes, that is why i wrote daily note in English.
 
-1. 图解 HTTP
-2. 图解 TCP/IP
-3. 《计算机是怎么样跑起来的》
-4. 《程序是怎样跑起来的》
-5. 《 网络是怎样连接的》
-6. 计算机网络自顶向下方法
-
-#### 算法
-
-1. 漫画算法 小灰的算法之旅
-
-#### 操作系统
-
-1. 现代操作系统：原理与实现
-
-#### 数据库
-
-1. 《 Redis 设计与实现 》
-2. 《Redis 实战》
-3. 数据库系统实现 华东师范大学
-
-#### 程序员软技能
-
-1. 软技能：代码之外的生存指南
-
-#### 后端 && 系统设计
-
-1. 编码：隐匿在计算机软硬件背后的语言
-2. 《程序员自我修养：编译链接与运行》
-3. 《计算机程序的构造和解释》
-4. 《大规模分布式存储系统:原理解析与架构实战》
-5. 《数据密集型应用系统设计》
-
-## 2022-01-25 
-漫长的春节假期快要结束了，索性一切都很圆满，爸爸妈妈和女朋友的父母确定了结婚的日期，我和这个有点脾气的女孩会在2023年的4月30日正式结婚，因之而来的是很多需要做的事，在这里做下记录，也算未来一份最美好的回忆。
-
-1. 婚纱摄影
-   - 摄影地点（暂定川西鱼子西，需查询鱼子西经典婚纱照）
-   - 摄影师
-   - 摄影风格确认（室内+室外组合，咨询joy推荐的婚纱摄影工作室，室内较少，室外较多）
-1. 结婚证领取
-   - 我的最新身份证领取（高新区派出所申请）
-   - 选领取的日子
-3. 邀请函撰写
-4. 婚礼小礼包订购（糖果+一包烟）
-
-## 2022-02-09
-缠绕自己三年多的焦虑和不适最近似乎开始逐渐减缓，是不是这就是生活的模样，在痛苦中前行，开始着尝试着和从以前一样，去思考，去想象，一些遥不可及，但又充满了热血的事情，这不能说是不切实际，谁知道自己的一个小想法在某一一天就会变成现实呢。
-
-这一年来工作也逐渐走上自己满意的状态，似乎工作不再是一件让自己产生紧张焦虑的因子，回头去看，这一步，太过艰难，那些日日夜夜的坚持，换来了今天的如意，正如那三年头破血流的日子。
-
-慢慢开始和杨二狗一起跑步，原来坚持真的是一件美好的事情，也制定了晚餐计划，晚餐开始减量，好像缠绕自己很久的胃疼也逐渐开始减缓，感谢你，我的上帝，请让我做你虔诚的子民，阿门！
-
-今年制定的学习计划也逐渐在进行中，希望自己对nodejs后端有更多的了解，能够熟练使用mondb和mysql数据库存储数据，能够使用redis做数据缓存，对docker有更好的实践。期待早日能够做更多的管理
-
-## 2023-7-22
-
-人的一生，将命运把握在自己手中
-
-研究开源可商用的免费模型
-
-申请域名 绑定versel来使用
