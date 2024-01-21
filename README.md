@@ -9,10 +9,12 @@
 ### I am a javascript full-stack developer from China-mainland 🇨🇳
 
 ## About me
+- 🧑‍💻 Javascript Full-stack engineer at  [Manulife](http://manulife.com)  from China-mainland
 
--  🧑‍💻 Javascript Full-stack engineer at  [Manulife](http://manulife.com) 
-- 🧰  6+ years development experience . especially for frontEnd
-- ❤️  Love programing and like the changes that code brings to the world.
+- 🌐 Extensive development experience in multinational companies.
+
+- 💼 6+ years development experience . especially for frontEnd.
+
 
 Proficient in <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
