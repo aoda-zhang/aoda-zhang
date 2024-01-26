@@ -15,6 +15,7 @@
 Proficient in <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="vue" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" alt="nextjs" src="https://cdn-1.webcatalog.io/catalog/next-js-docs/next-js-docs-icon-filled-256.png?v=1675593584368"></code> 
 <code><img height="20" alt="nestjs" src="https://camo.githubusercontent.com/2093e1eb4bc9b4f31f6b65facf62aa81bfb0630639ed2607cc1006f2656f1cf7/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667"></code>
