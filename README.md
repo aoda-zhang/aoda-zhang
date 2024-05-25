@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aodazhang)](https://www.linkedin.com/in/aodazhang)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aodazhang666@gmail.com)
 
-- 🧑‍💻 A Javascript Full-stack engineer from China-mainland
+- 🧑‍💻 A Javascript Full-stack engineer.
 
 - 🌐 Extensive development experience in multinational companies.
 
