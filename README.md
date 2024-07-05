@@ -6,12 +6,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aodazhang)](https://www.linkedin.com/in/aodazhang)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aodazhang666@gmail.com)
 
+- 💼 Over 6 years of experience in web development.
+- 
 - 🧑‍💻 A Javascript Full-stack engineer.
 
-- 🌐 Extensive development experience in multinational companies.
-
-- 💼 Over 6 years of experience in web development.
-  
 I'm here to share my knowledge and assist you on your journey in the world of web development.
 
 Proficient in
