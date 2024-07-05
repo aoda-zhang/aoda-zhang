@@ -10,7 +10,9 @@
 
 - 🌐 Extensive development experience in multinational companies.
 
-- 💼 Coding with Javascript for over 6 years.
+- 💼 Over 6 years of experience in web development.
+  
+I'm here to share my knowledge and assist you on your journey in the world of web development.
 
 Proficient in
 
