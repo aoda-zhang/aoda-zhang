@@ -1,16 +1,23 @@
-## Hi,I am Aoda 👋
+## Hi 👋 , I'm Aoda from 🇨🇳
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/aoda2826)](https://twitter.com/aoda2826)
+[![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.facebook.com/profile.php?id=100081490454983)](https://www.facebook.com/profile.php?id=100081490454983)
 [![Dev](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/aoda-zhang)
 [![stackoverflow](https://img.shields.io/badge/-stackoverflow-%23333?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15841174/aoda)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aodazhang)](https://www.linkedin.com/in/aodazhang)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aodazhang666@gmail.com)
 
-- 💼 Over 6 years of experience in web development.
+<br />
+I'm a Software Engineer and Tech writer, with over 6 years of experience in web development.
 
-- 🧑‍💻 A Javascript Full-stack engineer.
+I'm here to share my full-stack develop knowledge based on JavaScript and Nodejs.
 
-I'm here to share my knowledge and assist you on your journey in the world of web development.
+<br />
+
+I like hiking and everything related to nature.
+
+please let me know ( By facebook or email ) If you come to my city ChengDu for travel, I will be your best free tour guide. I like to communicate with people from different cultures all over the world.
+
+<br />
 
 Proficient in
 
