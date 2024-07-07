@@ -21,7 +21,7 @@ please let me know ( By facebook or email ) If you come to my city ChengDu for t
 
 <br />
 
-More about me pls visit my personal site https://aoda.vercel.app/about
+More about full-stack develop knowledge pls visit my personal site https://aoda.vercel.app
 
 Proficient in
 
