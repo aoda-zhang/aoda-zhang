@@ -1,7 +1,5 @@
 ## Hi 👋 , I'm Aoda from 🇨🇳
 
-More about full-stack develop knowledge and my story, pls come here https://aoda.vercel.app ❤️
-
 <img src="https://aoda.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fme.073e7234.png&w=3840&q=75" alt="aoda" width="300" height="300">
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.facebook.com/profile.php?id=100081490454983)](https://www.facebook.com/profile.php?id=100081490454983)
@@ -9,6 +7,10 @@ More about full-stack develop knowledge and my story, pls come here https://aoda
 [![stackoverflow](https://img.shields.io/badge/-stackoverflow-%23333?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15841174/aoda)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aodazhang)](https://www.linkedin.com/in/aodazhang)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aodazhang666@gmail.com)
+
+<br />
+
+More about full-stack develop knowledge and my story, pls come here https://aoda.vercel.app ❤️
 
 <br />
 I'm a Software Engineer and Tech writer, with over 6 years of experience in web development.
