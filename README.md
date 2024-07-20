@@ -1,5 +1,7 @@
 ## Hi 👋 , I'm Aoda from 🇨🇳
 
+More about full-stack develop knowledge and my story, pls come here https://aoda.vercel.app ❤️
+
 <img src="https://aoda.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fme.073e7234.png&w=3840&q=75" alt="aoda" width="300" height="300">
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.facebook.com/profile.php?id=100081490454983)](https://www.facebook.com/profile.php?id=100081490454983)
@@ -20,8 +22,6 @@ I like hiking and everything related to nature.
 please let me know ( By facebook or email ) If you come to my city ChengDu for travel, I will be your best free tour guide. I like to communicate with people from different cultures all over the world.
 
 <br />
-
-More about full-stack develop knowledge pls visit my personal site https://aoda.vercel.app
 
 Proficient in
 
