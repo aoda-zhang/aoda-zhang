@@ -23,7 +23,7 @@ please let me know ( By facebook or email ) If you come to my city ChengDu for t
 
 <br />
 
-Proficient in
+Experienced in
 
 <code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
