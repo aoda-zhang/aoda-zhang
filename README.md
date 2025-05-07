@@ -1,4 +1,4 @@
-## Hi 👋 , I'm Aoda from 🇨🇳
+## Hi 👋 , I'm Aoda
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.facebook.com/profile.php?id=100081490454983)](https://www.facebook.com/profile.php?id=100081490454983)
 [![Dev](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/aoda-zhang)
