@@ -9,19 +9,6 @@
 
 More about full-stack develop knowledge and my story, pls come here https://aoda.vercel.app ❤️
 
-<br />
-I'm a Software Engineer and Tech writer, with over 6 years of experience in web development.
-
-I'm here to share my full-stack develop knowledge based on JavaScript and Nodejs.
-
-<br />
-
-I like hiking and everything related to nature.
-
-please let me know ( By facebook or email ) If you come to my city ChengDu for travel, I will be your best free tour guide. I like to communicate with people from different cultures all over the world.
-
-<br />
-
 Experienced in
 
 <code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
