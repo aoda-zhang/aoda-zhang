@@ -7,10 +7,6 @@
 
 <br />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aoda-zhang&theme=tokyonight)
-
-<br />
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoda-zhang&layout=compact&theme=tokyonight)
 
 <br />
