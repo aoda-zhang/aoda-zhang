@@ -7,6 +7,8 @@
 
 <br />
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=aoda-zhang&layout=compact&theme=tokyonight
+
 More about full-stack develop knowledge and my story, pls come here https://aoda.vercel.app ❤️
 
 Experienced in
