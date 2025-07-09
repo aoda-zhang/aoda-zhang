@@ -1,21 +1,43 @@
-## Hi 👋 , I'm [Aoda](https://aoda.vercel.app)  
+## Hi 👋 , I'm [Aoda](https://aoda.vercel.app)
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.facebook.com/profile.php?id=100081490454983)](https://www.facebook.com/profile.php?id=100081490454983)  
-[![Dev](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/aoda-zhang) 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aodazhang)](https://www.linkedin.com/in/aodazhang)
-[![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aodazhang666@gmail.com)
+<p align="center">
+  <strong>Full-Stack Developer • Frontend Developer • Cross-Platform Developer</strong>
+</p>
 
-<br />
+<p align="center">
+  With <strong>8+ years</strong> of experience, I’m passionate about turning ideas into high-quality digital products using the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js), and I’m always exploring what’s next.
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoda-zhang&layout=compact&theme=tokyonight)
+## 📫 Contact Me
 
-<br />
+- 🌐 Website: [aoda.dev](https://aoda.vercel.app)
+- ✉️ Email: [aodazhang666@gmail.com](mailto:aodazhang666@gmail.com)
 
-Experienced in
 
-<code><img height="25" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" alt="nextjs" src="https://cdn-1.webcatalog.io/catalog/next-js-docs/next-js-docs-icon-filled-256.png?v=1675593584368"></code> 
-<code><img height="25" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" alt="nestjs" src="https://docs.nestjs.com/assets/logo-small-gradient.svg"></code>
-<code><img height="25" alt="azure" src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png></code>
+## 🧠 Tech Stack & Tools
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+
+  <!-- Backend -->
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <!-- DevOps -->
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+ 
+</p>
