@@ -8,11 +8,11 @@
   With <strong>8+ years</strong> of experience, I’m passionate about turning ideas into high-quality digital products using the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js), and I’m always exploring what’s next.
 </p>
 
-## 📫 Contact Me
+## 📫 Links
 
-- 🌐 Website: [aoda.dev](https://aoda.vercel.app)
 - ✉️ Email: [aodazhang666@gmail.com](mailto:aodazhang666@gmail.com)
-
+- 🌐 Website: [aoda.dev](https://aoda.vercel.app)
+- ✍️ Medium: [aoda.medium](https://medium.com/@aodazhang)
 
 ## 🧠 My Tech Stack & Tools
 
