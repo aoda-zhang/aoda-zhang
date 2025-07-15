@@ -12,7 +12,7 @@
 
 - ✉️ Email: [aodazhang666@gmail.com](mailto:aodazhang666@gmail.com)
 - 🌐 Website: [aoda.dev](https://aoda.vercel.app)
-- ✍️ Medium: [aoda.medium](https://medium.com/@aodazhang)
+- ✍️ Medium: [aodazhang.medium](https://medium.com/@aodazhang)
 
 ## 🧠 My Tech Stack & Tools
 
