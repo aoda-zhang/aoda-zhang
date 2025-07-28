@@ -1,7 +1,7 @@
 ## Hi 👋 , I'm [Aoda](https://aoda.vercel.app)
 
 <p align="center">
-  <strong>Full-Stack Developer • Frontend Developer • Cross-Platform Developer</strong>
+  <strong>Full-Stack Developer • Senior Frontend Developer • Cross-Platform Developer</strong>
 </p>
 
 <p align="center">
