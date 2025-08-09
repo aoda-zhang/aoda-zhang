@@ -8,20 +8,30 @@
   With <strong>8+ years</strong> of experience, I’m passionate about turning ideas into high-quality digital products using the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js), and I’m always exploring what’s next.
 </p>
 
+<p align="center">
+  Beyond building products, I believe technology should have warmth and purpose.  
+  I founded <a href="https://github.com/aoda-zhang/PawHaven-frontEnd"><strong>PawHaven</strong></a> — an open-source full-stack platform dedicated to rescuing stray animals.  
+  It’s a place where people can record sightings, join rescue efforts, and create a better world for every paw in need.
+</p>
+
+---
+
 ## 📫 Links
 
 - ✉️ Email: [aodazhang666@gmail.com](mailto:aodazhang666@gmail.com)
 - 🌐 Website: [aoda.dev](https://aoda.vercel.app)
 - ✍️ Medium: [aodazhang.medium](https://medium.com/@aodazhang)
 
+---
+
 ## 🧠 My Tech Stack & Tools
 
 <p align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 
@@ -40,5 +50,12 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
- 
 </p>
+
+---
+
+## 🌍 Making a Better World with Tech
+
+I believe great developers not only build products, but also build hope.  
+Through **PawHaven**, I aim to combine my full-stack skills with compassion — helping stray animals find safety and love.  
+If you share the same vision, join me in building technology that truly makes the world a better place.
