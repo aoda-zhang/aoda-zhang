@@ -8,12 +8,6 @@
   With <strong>8+ years</strong> of experience, I’m passionate about turning ideas into high-quality digital products using the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js), and I’m always exploring what’s next.
 </p>
 
-<p align="center">
-  Beyond building products, I believe technology should have warmth and purpose.  
-  I founded <a href="https://github.com/aoda-zhang/PawHaven-frontEnd"><strong>PawHaven</strong></a> — an open-source full-stack platform dedicated to rescuing stray animals.  
-  It’s a place where people can record sightings, join rescue efforts, and create a better world for every paw in need.
-</p>
-
 ---
 
 ## 📫 Links
