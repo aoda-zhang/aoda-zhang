@@ -51,5 +51,5 @@
 ## 🌍 Making a Better World with Tech
 
 I believe great developers not only build products, but also build hope.  
-Through **PawHaven**, I aim to combine my full-stack skills with compassion — helping stray animals find safety and love.  
-If you share the same vision, join me in building technology that truly makes the world a better place.
+Through **PawHaven**, I aim to combine my full-stack skills with compassion — helping stray animals find safety and love.
+Just makes the world a better place.
