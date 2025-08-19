@@ -52,10 +52,3 @@
 </p>
 
 ---
-
-## 🌍 Making a Better World with Tech
-
-The greatest reason I love programming is my belief that technology can make our lives better and full of hope.  
-I believe great developers not only build products, but also build hope.  
-Through [**PawHaven**](https://pawhaven-love.vercel.app/), I aim to combine my full-stack skills with compassion — helping stray animals find safety and love.  
-Just makes the world a better place.
