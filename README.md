@@ -5,7 +5,12 @@
 </p>
 
 <p align="center">
-  With <strong>8+ years</strong> of experience, I’m passionate about turning ideas into high-quality digital products using the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js), and I’m always exploring what’s next.
+  With <strong>8+ years</strong> of experience, I’m passionate about turning ideas into high-quality digital products using the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js), and I’m always exploring what’s next.  
+</p>
+
+<p align="center">
+  I love programming because I believe technology can make life better and bring hope.  
+  Through projects like <a href="https://pawhaven-love.vercel.app/"><strong>PawHaven</strong></a>, I combine my full-stack skills with compassion — helping stray animals find safety and love.  
 </p>
 
 ---
@@ -50,6 +55,7 @@
 
 ## 🌍 Making a Better World with Tech
 
+The greatest reason I love programming is my belief that technology can make our lives better and full of hope.  
 I believe great developers not only build products, but also build hope.  
 Through [**PawHaven**](https://pawhaven-love.vercel.app/), I aim to combine my full-stack skills with compassion — helping stray animals find safety and love.  
 Just makes the world a better place.
