@@ -1,54 +1,48 @@
-## Hi 👋 , I'm [Aoda](https://aoda.vercel.app)
+## 👋 Hi, I’m [Aoda](https://aoda.vercel.app)
 
 <p align="center">
   <strong>Full-Stack Developer • Senior Frontend Developer • Cross-Platform Developer</strong>
 </p>
 
 <p align="center">
-  With <strong>8+ years</strong> of experience, I’m passionate about turning ideas into high-quality digital products using the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js), and I’m always exploring what’s next.  
-</p>
-
-<p align="center">
-  I love programming because I believe technology can make life better and bring hope.  
-  Through projects like <a href="https://pawhaven-love.vercel.app/"><strong>PawHaven</strong></a>, I combine my full-stack skills with compassion — helping stray animals find safety and love.  
-</p>
+  with 8+ years of experience. Focused on React, TypeScript, Node.js. Creator of PawHaven — combining tech with community and animal welfare.  
 
 ---
 
-## 📫 Links
+### 🛠 My Tech Stack
 
-- ✉️ Email: [aodazhang666@gmail.com](mailto:aodazhang666@gmail.com)
-- 🌐 My Profile: [aoda.dev](https://aoda.vercel.app)      
-- ✍️ Medium: [aodazhang.medium](https://medium.com/@aodazhang)
-- 🐱 pawHaven: [pawHaven](https://pawhaven-love.vercel.app/)
----
-
-## 🧠 My Tech Stack & Tools
-
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-
-  <!-- Backend -->
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-  <!-- DevOps -->
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
+| Domain | Tools & Frameworks |
+|---|---|
+| Frontend | React · TypeScript · Tailwind CSS · |
+| Backend / Fullstack | Node.js · Express / Nest.js |
+| DevOps | Git, Github Action, Docker，K8s ,Azure |
 
 ---
+
+### 🧰 Notable Projects
+
+| Project | What It Does | Links |
+|---|---|---|
+| **PawHaven** | Open-source platform for rescuing stray animals: report sightings, join rescues, multi-language support, responsive UI & mobile support | [Frontend Repo](https://github.com/aoda-zhang/PawHaven-frontEnd) [Backend Repo](https://github.com/aoda-zhang/PawHaven-backEnd) |
+
+### 🌱 Why PawHaven
+
+This isn’t just code — it’s purpose. With PawHaven, I want to:
+
+- Use my dev skills to help communities and stray animals.  
+- Create tools that are accessible (multi-language, mobile friendly) and maintainable.  
+- Share what I learn: from technical challenges to design & UX.  
+
+---
+
+### 📫 Let’s Connect / Contribute
+
+- **Email**: aodazhang666@gmail.com 
+- **Personal Website**: https://aoda.vercel.app
+- **dev.to**: aoda (for blog posts, thoughts, updates)  [DEV](https://dev.to/aoda-zhang)  
+
+### 🔭 What’s Coming
+
+- More PawHaven features: rescue workflows, adoption module, maps/geolocation.  
+- Better mobile UX & accessibility.  
+- Writing more about my full-stack experience to help more technologists.
