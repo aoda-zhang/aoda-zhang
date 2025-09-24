@@ -1,25 +1,10 @@
 ## 👋 Hi, I’m [Aoda](https://aoda.vercel.app)
 
-<p align="center">
-  <strong>Full-Stack Developer • Senior Frontend Developer • Cross-Platform Developer</strong>
-</p>
+With over 8 years of experience, I’m passionate about all things JavaScript and enjoy turning my ideas into digital products that improve people’s lives. Always learning, always exploring.
 
- with 8+ years of experience. Focused on React, TypeScript, Node.js. Creator of [PawHaven](https://pawhaven-love.vercel.app) — combining tech with community and animal welfare.
-
- ---
-
-### 🌱 What is PawHaven
-A Open-source platform for rescuing stray animals: report sightings, join rescues, multi-language support, responsive UI & mobile support 
-
-This isn’t just code — it’s purpose. With PawHaven, I want to:
-
-- Use my dev skills to help communities and stray animals.  
-- Create tools that are accessible (multi-language, mobile friendly) and maintainable.  
-- Share what I learn: from technical challenges to design & UX.
 ---
 
-### 🔭 What’s Coming
+### 🔭 What I'm doing
 
-- More PawHaven features: rescue workflows, adoption module, maps/geolocation.  
-- Better mobile UX & accessibility.  
-- Writing more about my full-stack experience to help more technologists.
+- 🌱 Currently building [PawHaven](https://pawhaven-love.vercel.app), an open-source platform for helping stray animals.
+- 💻 Sharing my full-stack development experience to help other technologists.
