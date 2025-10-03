@@ -6,5 +6,5 @@ With over 8 years of experience, I’m passionate about all things JavaScript an
 
 ### 🔭 What I'm doing
 
-- 🌱 Currently building [PawHaven](https://pawhaven-love.vercel.app), an open-source platform for helping stray animals.
-- 💻 Sharing my full-stack development experience to help other technologists.
+- 🌱 In my spare time, I’m building [PawHaven](https://pawhaven-love.vercel.app), an open-source platform dedicated to helping stray animals.  
+- 💻 Sharing my full-stack development journey to support and inspire other technologists.  
