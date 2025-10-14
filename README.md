@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m [Aoda](https://aoda.vercel.app)
 
-With over 8 years of experience, I’m passionate about all things JavaScript and enjoy turning my ideas into digital products that improve people’s lives. Always learning, always exploring.
+A full-stack software engineer with more than 8 years of professional experience, I’m passionate about all things JavaScript and enjoy turning my ideas into digital products that improve people’s lives. Always learning, always exploring.
 
 ---
 
