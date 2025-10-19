@@ -27,7 +27,3 @@ I love turning ideas into experiences that make life better — always learning,
 - 🐾 Building [**PawHaven**](https://pawhaven-love.vercel.app) — an open-source platform that combines technology and compassion to help stray animals.  
 - 💻 Sharing insights from my **full-stack journey** — from Monorepo architecture to modern front-end design systems.  
 - 🤖 Exploring how **AI can make everyday life more convenient and meaningful**, from intelligent UX to practical automation.
-
----
-
-⭐ *Code is empathy in action — every line can make the world a little kinder.*
