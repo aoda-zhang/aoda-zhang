@@ -8,16 +8,14 @@ I love turning ideas into experiences that make life better — always learning,
 ### 🧰 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=typescript" width="32" /> 
-  <img src="https://skillicons.dev/icons?i=react" width="32" /> 
-  <img src="https://skillicons.dev/icons?i=tailwind" width="32" /> 
-  <img src="https://skillicons.dev/icons?i=nodejs" width="32" /> 
-  <img src="https://skillicons.dev/icons?i=nestjs" width="32" /> 
-  <img src="https://skillicons.dev/icons?i=mongodb" width="32" /> 
-  <img src="https://skillicons.dev/icons?i=prisma" width="32" /> 
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="32" /> 
-  <img src="https://skillicons.dev/icons?i=githubactions" width="32" /> 
-  <img src="https://skillicons.dev/icons?i=azure" width="32" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white" />
 </p>
 
 ---
