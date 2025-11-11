@@ -1,4 +1,4 @@
-## 👋 Hi, I’m [Aoda](https://aoda.vercel.app)
+## 👋 Hi, I’m [Aoda](https://aoda.vercel.app)  <img src="./animated-computer.gif" alt="Coding Monkey" />
 
 A **Full-Stack developer** with 8+ years of experience, passionate about crafting scalable and meaningful products using modern JavaScript technologies. <br/>
 I turn ideas into intuitive digital experiences — always learning, always improving.
