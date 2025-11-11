@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m [Aoda](https://aoda.vercel.app)
 
-A **Full-Stack developer ** with 8+ years of experience, passionate about crafting scalable and meaningful products using modern JavaScript technologies. <br/>
+A **Full-Stack developer** with 8+ years of experience, passionate about crafting scalable and meaningful products using modern JavaScript technologies. <br/>
 I turn ideas into intuitive digital experiences — always learning, always improving.
 
 ---
