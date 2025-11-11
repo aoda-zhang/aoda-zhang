@@ -8,16 +8,16 @@ I love turning ideas into experiences that make life better — always learning,
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=typescript&logoColor=white" />
    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-20232a?logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/NODE-43853D?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NESTJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGODB-4EA94B?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZURE-0089D6?logo=microsoftazure&logoColor=white" />
 </p>
 
 ---
