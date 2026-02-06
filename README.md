@@ -1,7 +1,8 @@
 ## 👋 Hi, I’m [Aoda](https://aoda.vercel.app)
 
-**Full-Stack Software Engineer** with **9+ years of experience**, building  
-**scalable, maintainable, production-ready web applications**.
+**Full-Stack Software Engineer** with **9+ years of experience**.
+
+building **scalable, maintainable, production-ready web applications**.
 
 Experienced across **frontend architecture, backend services, and cloud-native systems**,  
 with a strong focus on **clean code, clear abstractions, and long-term maintainability**.
@@ -25,18 +26,12 @@ with a strong focus on **clean code, clear abstractions, and long-term maintaina
 
 ### 🔭 Current Focus
 
-- 🐾 **[PawHaven](https://pawhaven.work)** — an **open-source, full-stack platform** supporting stray animal rescue  
-  - Modular **monorepo architecture** (React + NestJS)
-  - Clear service boundaries and consistent API design
-  - Cloud-native deployment with **Kubernetes on Azure**
-  - Emphasis on **scalability, maintainability, and real-world usability**
+- 🐾 **[PawHaven](https://pawhaven.work)** — an **open-source, full-stack platform** for stray animal rescue  
+  - **Monorepo architecture** (React + NestJS), clear service boundaries  
+  - Cloud-native deployment with **Kubernetes on Azure**  
+  - Built with **scalability, maintainability, and real-world usage** in mind
 
-- 💡 Sharing practical engineering experience  
-  - Monorepo organization & dependency boundaries  
-  - Frontend architecture and reusable component design  
-  - Backend service separation and API consistency  
+- 💡 Sharing hands-on experience in  
+  **monorepos, frontend architecture, and backend service design**
 
-- 🤖 Exploring **pragmatic AI integration**  
-  - Enhancing user experience
-  - Automating repetitive workflows
-  - Supporting product-level decision making
+- 🤖 Exploring **pragmatic AI integration** to improve UX and workflow automation
