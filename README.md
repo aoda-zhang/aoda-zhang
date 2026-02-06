@@ -1,7 +1,10 @@
-## 👋 Hi, I’m [Aoda](https://aoda.vercel.app)  <img src="./animated-computer.gif" alt="Coding Monkey" />
+## 👋 Hi, I’m [Aoda](https://aoda.vercel.app)
 
-A **fullStack software developer** with 8+ years of experience, passionate about crafting scalable and meaningful products using modern JavaScript technologies. <br/>
-I turn ideas into intuitive digital experiences — always learning, always improving.
+**Full-Stack Software Engineer** with **9+ years of experience**, building  
+**scalable, maintainable, production-ready web applications**.
+
+Experienced across **frontend architecture, backend services, and cloud-native systems**,  
+with a strong focus on **clean code, clear abstractions, and long-term maintainability**.
 
 ---
 
@@ -10,8 +13,6 @@ I turn ideas into intuitive digital experiences — always learning, always impr
 <p align="left">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=typescript&logoColor=white" />
-   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/REACT-20232a?logo=react&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/NODE-43853D?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NESTJS-E0234E?logo=nestjs&logoColor=white" />
@@ -22,8 +23,20 @@ I turn ideas into intuitive digital experiences — always learning, always impr
 
 ---
 
-### 🔭 What I'm working on
+### 🔭 Current Focus
 
-- 🐾 Building [**PawHaven**](https://pawhaven.work) — an open-source platform that combines technology and compassion to help stray animals.  
-- 💻 Sharing insights from my **full-stack journey** — from Monorepo architecture to modern front-end design systems.  
-- 🤖 Exploring how AI accelerates product digitalization — from intelligent UX to practical automation — turning ideas into scalable, real-world systems.
+- 🐾 **[PawHaven](https://pawhaven.work)** — an **open-source, full-stack platform** supporting stray animal rescue  
+  - Modular **monorepo architecture** (React + NestJS)
+  - Clear service boundaries and consistent API design
+  - Cloud-native deployment with **Kubernetes on Azure**
+  - Emphasis on **scalability, maintainability, and real-world usability**
+
+- 💡 Sharing practical engineering experience  
+  - Monorepo organization & dependency boundaries  
+  - Frontend architecture and reusable component design  
+  - Backend service separation and API consistency  
+
+- 🤖 Exploring **pragmatic AI integration**  
+  - Enhancing user experience
+  - Automating repetitive workflows
+  - Supporting product-level decision making
