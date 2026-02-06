@@ -1,11 +1,14 @@
 ## 👋 Hi, I’m [Aoda](https://aoda.vercel.app)
 
-**Full-Stack Software Engineer** with **9+ years of experience**.
-
-building **scalable, maintainable, production-ready web applications**.
+**Full-Stack Software Engineer** with **9+ years of experience**, building **scalable, maintainable, production-ready web applications**.
 
 Experienced across **frontend architecture, backend services, and cloud-native systems**,  
 with a strong focus on **clean code, clear abstractions, and long-term maintainability**.
+
+### 🇩🇪 Open to Opportunities in Germany
+
+Currently open to **Senior Frontend / Full-Stack / Backend roles** in **Germany**,  
+with a focus on **long-term, product-driven teams**.
 
 ---
 
