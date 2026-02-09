@@ -17,6 +17,7 @@ I build production-ready web applications focused on scalability, maintainabilit
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />&nbsp;
+  <img src="https://img.shields.io/badge/React_Native-61dafb?logo=react&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
   <br />
