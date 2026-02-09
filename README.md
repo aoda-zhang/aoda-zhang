@@ -40,7 +40,7 @@ I build production-ready web applications focused on scalability, maintainabilit
 **PawHaven** — an open-source platform that helps **volunteers, shelters, and adopters** **report**, **track**, 
 and **share** stray animal rescue cases (from first sighting to outcome).
 
-- 🌍 Live: [pawhaven.work](https://pawhaven.work/)  
+- 🌍 Live: [pawhaven](https://pawhaven.work/)  
 - 💻 Repository: [GitHub](https://github.com/aoda-zhang/PawHaven-Enterprise-FullStack-React-NestJS)
 
 #### ✨ Highlights
