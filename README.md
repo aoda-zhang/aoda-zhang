@@ -1,40 +1,51 @@
-## 👋 Hi, I’m [Aoda](https://aoda.vercel.app)
+<div align="center">
 
-**Full-Stack Software Engineer** with **9+ years of experience**, building **scalable, maintainable, production-ready web applications**.
+## Hi 👋 there, I’m Aoda
 
-Experienced across **frontend architecture, backend services, and cloud-native systems**,  
-with a strong focus on **clean code, clear abstractions, and long-term maintainability**.
+****Senior Frontend Developer · Backend (Node.js) Experience****  
 
-### 🇩🇪 Open to Opportunities in Germany
+I build production-ready web applications focused on scalability, maintainability,and long-term team productivity.
 
-Currently open to **Senior Frontend / Full-Stack / Backend roles** in **Germany**,  
-with a focus on **long-term, product-driven teams**.
+</div>
 
 ---
 
 ### 🧰 Tech Stack
-
 <p align="left">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-20232a?logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/NODE-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NESTJS-E0234E?logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MONGODB-4EA94B?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AZURE-0089D6?logo=microsoftazure&logoColor=white" />
+  <!-- Frontend Core -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" />&nbsp;
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <br />
+  <!-- Backend & Data -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+  <br />
+  <!-- Cloud & Infra -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white" />
 </p>
 
 ---
 
-### 🔭 Current Focus
+### 🐱 Hobby Project
 
-- 🐾 **[PawHaven](https://pawhaven.work)** — an **open-source, full-stack platform** for stray animal rescue  
-  - **Monorepo architecture** (React + NestJS), clear service boundaries  
-  - Cloud-native deployment with **Kubernetes on Azure**  
-  - Built with **scalability, maintainability, and real-world usage** in mind
+**PawHaven** — an open-source platform that helps **volunteers, shelters, and adopters** **report**, **track**, 
+and **share** stray animal rescue cases (from first sighting to outcome).
 
-- 💡 Sharing hands-on experience in  
-  **monorepos, frontend architecture, and backend service design**
+- 🌍 Live: [pawhaven.work](https://pawhaven.work/)  
+- 💻 Repository: [GitHub](https://github.com/aoda-zhang/PawHaven-Enterprise-FullStack-React-NestJS)
 
-- 🤖 Exploring **pragmatic AI integration** to improve UX and workflow automation
+#### ✨ Highlights
+
+- Built around **real-world rescue workflows** rather than generic CRUD
+- **Monorepo setup** keeps frontend, backend, and shared code in one place for easier collaboration and maintainability
+- Supports multiple **user roles**: volunteers, shelters, and adopters
+- **Feature-driven frontend** and **domain-aligned backend modules** for scalable, maintainable services
+
