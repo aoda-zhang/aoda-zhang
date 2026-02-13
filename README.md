@@ -32,6 +32,7 @@ I build production-ready web applications focused on scalability, maintainabilit
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
+
 ---
 
 ### 🐱 Hobby Project
