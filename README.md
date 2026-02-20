@@ -43,6 +43,8 @@ and **share** stray animal rescue cases (from first sighting to outcome).
 - 🌍 Live: [pawhaven](https://pawhaven.work/)  
 - 💻 Repository: [GitHub](https://github.com/aoda-zhang/PawHaven-Enterprise-FullStack-React-NestJS)
 
+[![hero2.png](https://i.postimg.cc/SN1wfNPZ/hero2.png)](https://postimg.cc/w7Jf6HgJ)
+
 #### ✨ Highlights
 
 - Built around **real-world rescue workflows** rather than generic CRUD
