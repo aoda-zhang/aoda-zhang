@@ -35,7 +35,7 @@ I build production-ready web applications focused on scalability, maintainabilit
 
 ---
 
-### 🐱 Hobby Project
+### 🐱 Side Project
 
 **PawHaven** — an open-source platform that helps **volunteers, shelters, and adopters** **report**, **track**, 
 and **share** stray animal rescue cases (from first sighting to outcome).
