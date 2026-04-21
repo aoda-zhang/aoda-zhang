@@ -2,9 +2,9 @@
 
 ## Hi 👋 there, I’m Aoda
 
-****Senior Frontend Developer · Backend (Node.js) Experience****  
+****Full-Stack Engineer · React · TypeScript · Node.js****  
 
-I build production-ready web applications focused on scalability, maintainability,and long-term team productivity.
+I build scalable software systems with maintainable codebases that support enterprise digital transformation.
 
 </div>
 
