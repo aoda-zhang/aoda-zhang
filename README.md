@@ -35,7 +35,7 @@ I build scalable software systems with maintainable codebases that support enter
 
 ---
 
-### Side Project
+### Open-Source Project
 
 **PawHaven** — an open-source platform that helps **volunteers, shelters, and adopters** **report**, **track**, 
 and **share** stray animal rescue cases (from first sighting to outcome).
