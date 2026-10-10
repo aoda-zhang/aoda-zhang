@@ -42,3 +42,4 @@ Hello! I'm Aoda Zhang, a frontend-focused full-stack engineer with 9+ years of e
 ### 🚀 Open Source Projects
 
 **[PawHaven](https://pawhaven.work/)** — An actively developed open-source animal rescue platform dedicated to making a meaningful difference for animals in need by connecting volunteers, shelters, and adopters through technology.
+[![hero2.png](https://i.postimg.cc/SN1wfNPZ/hero2.png)](https://postimg.cc/w7Jf6HgJ)
