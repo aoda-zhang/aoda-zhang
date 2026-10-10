@@ -1,55 +1,44 @@
-<div align="center">
+# Aoda Zhang
 
-## Hi 👋 there, I’m Aoda
+## Frontend-Focused Full-Stack Engineer | AI Engineer
 
-****Full-Stack Engineer · React · TypeScript · Node.js****  
+Hello! I'm Aoda Zhang, a frontend-focused full-stack engineer with 9+ years of experience specializing in React, TypeScript, and frontend architecture. I also work with backend technologies and leverage AI to solve complex, enterprise-scale engineering challenges.
 
-I build scalable software systems with maintainable codebases that support enterprise digital transformation.
-
-</div>
-
----
-
-### 🧰 Tech Stack
-<p>
-  <!-- Frontend Core -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React_Native-61dafb?style=flat-square&logo=react&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <br/>
-  <!-- Backend & Data -->
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <br/>
-  <!-- Cloud & Infra -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/aodazhang/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aoda.zhang.work@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
----
+### 💼 Experience
 
-### Open-Source Project
+- **Full-Stack Software Engineer** · Manulife (2022–Present)
+- **Senior Frontend Engineer** · Newegg (2021–2022)
+- **Frontend Engineer** · Hucai (2017–2021)
 
-**PawHaven** — an open-source platform that helps **volunteers, shelters, and adopters** **report**, **track**, 
-and **share** stray animal rescue cases (from first sighting to outcome).
+### 🛠️ Technical Skills
 
-- 🌍 Live: [pawhaven](https://pawhaven.work/)  
-- 💻 Repository: [GitHub](https://github.com/aoda-zhang/PawHaven-Enterprise-FullStack-React-NestJS)  
-- 💬 Community: [Discord](https://discord.gg/znnG258E)
+**Frontend Engineering**
 
-[![hero2.png](https://i.postimg.cc/SN1wfNPZ/hero2.png)](https://postimg.cc/w7Jf6HgJ)
+- React, TypeScript, JavaScript, React Native
+- Frontend Architecture, Component Design, State Management
+- Design Systems, Internationalization, Performance Optimization
 
-#### ✨ Highlights
+**Backend Development**
 
-- Built around **real-world rescue workflows** rather than generic CRUD
-- **Monorepo setup** keeps frontend, backend, and shared code in one place for easier collaboration and maintainability
-- Supports multiple **user roles**: volunteers, shelters, and adopters
-- **Feature-driven frontend** and **domain-aligned backend modules** for scalable, maintainable services
+- Node.js, NestJS, REST APIs
+- Modular Services, Monorepo Architecture
+- MongoDB, Prisma, Authentication, Data Modeling
 
+**AI Engineering**
+
+- AI Agent Development and Orchestration
+- AI-Assisted Software Engineering
+- Automated Code Review and Engineering Workflow Design
+
+### 🚀 Open Source Projects
+
+**[PawHaven](https://pawhaven.work/)** — An actively developed open-source animal rescue platform dedicated to making a meaningful difference for animals in need by connecting volunteers, shelters, and adopters through technology.
