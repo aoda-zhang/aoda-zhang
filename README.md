@@ -1,6 +1,6 @@
 # Aoda Zhang
 
-## Frontend-Focused Full-Stack Engineer | AI Engineer
+## Frontend-Focused Full-Stack Engineer
 
 Hello! I'm Aoda Zhang, a frontend-focused full-stack engineer with 9+ years of experience specializing in React, TypeScript, and frontend architecture. I also work with backend technologies and leverage AI to solve complex, enterprise-scale engineering challenges.
 
