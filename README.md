@@ -1,6 +1,6 @@
 # Aoda Zhang
 
-## Full-Stack Software Engineer（Frontend-Focused）
+## Full-Stack Software Engineer
 
 Hello! I'm Aoda Zhang, a Full-Stack Software Engineer (Frontend-Focused ) with 9+ years of experience building scalable web applications and designing maintainable architectures.
 
