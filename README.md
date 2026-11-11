@@ -2,13 +2,13 @@
 
 ## Full-Stack Software Engineer
 
-Hello! I'm Aoda Zhang, a Full-Stack Software Engineer (Frontend-Focused ) with 9+ years of experience building scalable web applications and designing maintainable architectures.
+Hello! I'm Aoda Zhang, a Full-Stack Software Engineer with 9+ years of experience building scalable web applications and designing maintainable architectures.
 
 I specialize in React and TypeScript, with experience in backend development and AI engineering. I enjoy solving complex engineering challenges, building reusable solutions, and delivering reliable software for real-world use cases.
 
 🇩🇪 Open to Opportunities in Germany
 
-I'm exploring frontend engineering and frontend-heavy full-stack opportunities in Germany, with plans to relocate in March 2027. I'm particularly interested in teams that value engineering excellence, maintainable architecture, and meaningful product development.
+I'm exploring full-stack opportunities in Germany. I'm particularly interested in teams that value engineering excellence, maintainable architecture, and meaningful product development.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aodazhang/">
