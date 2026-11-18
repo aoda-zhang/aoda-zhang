@@ -8,7 +8,7 @@ I currently work at Manulife, developing and modernizing financial technology pl
 
 🇩🇪 Open to Opportunities in Germany
 
-I'm exploring full-stack opportunities in Germany. I'm particularly interested in teams that value engineering excellence, maintainable architecture, and meaningful product development.
+I'm exploring full-stack opportunities in Germany, especially with teams that value engineering excellence, clean architecture.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aodazhang/">
