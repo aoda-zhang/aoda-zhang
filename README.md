@@ -27,11 +27,6 @@ I'm exploring full-stack opportunities in Germany. I'm particularly interested i
 
 ### 🛠️ Technical Skills
 
-Senior Software Engineer (9+ years of full-stack development); : ; F: ; Databases: MongoDB; Cloud & CI/CD: Microsoft Azure | Docker |
-Kubernetes | GitHub Actions | CI/CD Workflows; Testing & Quality: Automated Testing | Unit
-Testing | Integration Testing; : | ; Tools & Collaboration:
-Git | GitHub | Figma | Jira | Confluence | Agile/Scrum.
-
 **Frontend Development**
 
 - JavaScript (ES6+), TypeScript, React, React Native
