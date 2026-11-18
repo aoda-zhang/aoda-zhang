@@ -2,9 +2,9 @@
 
 ## Senior Software Engineer
 
-Hello! I'm Aoda Zhang, a Full-Stack Software Engineer with 9+ years of experience building scalable web applications and designing maintainable architectures.
+Hello! I'm Aoda Zhang, I am a Senior Software Engineer with 9+ years of experience in full-stack development, specializing in frontend and backend engineering for investment management, e-commerce, and enterprise applications. 
 
-I specialize in React and TypeScript, with experience in backend development and AI engineering. I enjoy solving complex engineering challenges, building reusable solutions, and delivering reliable software for real-world use cases.
+I currently work at Manulife, developing and modernizing financial technology platforms using TypeScript, React.js, Node.js, NestJS, Express.js, MongoDB, and REST APIs within microservices and microfrontend architectures.
 
 🇩🇪 Open to Opportunities in Germany
 
@@ -21,25 +21,28 @@ I'm exploring full-stack opportunities in Germany. I'm particularly interested i
 
 ### 💼 Experience
 
-- **Full-Stack Software Engineer** · Manulife (2022–Present)
-- **Senior Frontend Engineer** · Newegg (2021–2022)
-- **Frontend Engineer** · Hucai (2017–2021)
+- **Senior Software Engineer** · Manulife (2022–Present)
+- **Software Engineer** · Newegg (2021–2022)
+- **Software Engineer** · Hucai (2017–2021)
 
 ### 🛠️ Technical Skills
 
-**Frontend Engineering**
+Senior Software Engineer (9+ years of full-stack development); : ; F: ; Databases: MongoDB; Cloud & CI/CD: Microsoft Azure | Docker |
+Kubernetes | GitHub Actions | CI/CD Workflows; Testing & Quality: Automated Testing | Unit
+Testing | Integration Testing; : | ; Tools & Collaboration:
+Git | GitHub | Figma | Jira | Confluence | Agile/Scrum.
 
-- React, TypeScript, JavaScript, React Native
-- Frontend Architecture, Component Design, State Management
-- Design Systems, Internationalization, Performance Optimization
+**Frontend Development**
+
+- JavaScript (ES6+), TypeScript, React, React Native
+- Responsive Web Design, Microfrontend Architecture, CDesign Systems
 
 **Backend Development**
 
-- Node.js, NestJS, REST APIs
-- Modular Services, Monorepo Architecture
-- MongoDB, Prisma, Authentication, Data Modeling
-
-**AI Engineering**
+- Node.js, Express.js, NestJS
+- REST APIs, Microservices Architecture, API Integration
+  
+**AI-Assisted Engineering**
 
 - AI Agent Development and Orchestration
 - AI-Assisted Software Engineering
