@@ -14,7 +14,7 @@ I'm exploring full-stack opportunities in Germany. I'm particularly interested i
   <a href="https://www.linkedin.com/in/aodazhang/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aoda.zhang.work@gmail.com">
+  <a href="mailto:zhangqi20231994@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
