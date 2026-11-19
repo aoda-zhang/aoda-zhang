@@ -1,8 +1,8 @@
-# Aoda Zhang
+# Qi Zhang
 
 ## Senior Software Engineer
 
-Hello! I'm Aoda Zhang, I am a Senior Software Engineer with 9+ years of experience in full-stack development, specializing in frontend and backend engineering for investment management, e-commerce, and enterprise applications. 
+Hello! I'm Qi Zhang, you can call me Aoda, I am a Senior Software Engineer with 9+ years of experience in full-stack development, specializing in frontend and backend engineering for investment management, e-commerce, and enterprise applications. 
 
 I currently work at Manulife, developing and modernizing financial technology platforms using TypeScript, React.js, Node.js, NestJS, Express.js, MongoDB, and REST APIs within microservices and microfrontend architectures.
 
