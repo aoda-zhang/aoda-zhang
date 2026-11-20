@@ -30,7 +30,7 @@ I'm exploring full-stack opportunities in Germany, especially with teams that va
 **Frontend Development**
 
 - JavaScript (ES6+), TypeScript, React, React Native
-- Responsive Web Design, Microfrontend Architecture, CDesign Systems
+- Responsive Web Design, Microfrontend Architecture, Design Tokens
 
 **Backend Development**
 
